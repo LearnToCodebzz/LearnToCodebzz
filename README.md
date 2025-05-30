@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @LearnToCodebzz
+- 👋 Hi, I’m Cuong
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java Springboot and other stuff to become an fullstack dev
 - 💞️ I’m looking to collaborate on create a website that serves people
-- 📫 How to reach me facebook, linkedIn---
 
 - ⚡ Fun fact: I used to be a worker but started my journey to code for 2 years
 
